@@ -1,0 +1,15 @@
+h1:hover {
+ font-size: 70px;
+color:yellow;
+}
+
+h1{
+  text-align: center;
+  color: green;
+  font-size: 40px;
+  font-style: italic;
+}
+
+body {
+  background-color: #d9ecd0;
+}
